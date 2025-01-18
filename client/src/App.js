@@ -1,10 +1,9 @@
-import React from 'react';
-import Lottie from 'lottie-react';
-import animationData from './assets/hero.json';
+import React from "react";
+
 
 const App = () => {
   return (
-    <Lottie animationData={animationData}/>
+    <div>hello</div>
   );
 };
 
