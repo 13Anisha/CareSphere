@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header>
       <div className="wavy-background"></div>
-      <h1>CareSphere - Quality Healthcare</h1>
+      <h2>CareSphere </h2>
       <nav>
         <a href="#">Home</a>
         <a href="#">Doctor</a>
